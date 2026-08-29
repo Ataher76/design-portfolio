@@ -21,6 +21,6 @@ Welcome to my design repository. I specialize in translating complex quantitativ
 
 ---
 **Let's Connect**
-* 📧 Email: [Insert your email address here]
-* 💼 LinkedIn: [Insert your LinkedIn URL here]
-* 🔬 ResearchGate: [Insert your ResearchGate URL here]
+* 📧 Email: ataher.cu.ms@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/ataher-ali-616832180/
+* 🔬 Google Scholar: https://scholar.google.com/citations?user=I7Z1aw8AAAAJ&hl=en
